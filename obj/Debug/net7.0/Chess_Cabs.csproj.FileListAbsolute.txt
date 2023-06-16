@@ -1,0 +1,17 @@
+D:\Chess_Cabs\bin\Debug\net7.0\Chess_Cabs.exe
+D:\Chess_Cabs\bin\Debug\net7.0\Chess_Cabs.deps.json
+D:\Chess_Cabs\bin\Debug\net7.0\Chess_Cabs.runtimeconfig.json
+D:\Chess_Cabs\bin\Debug\net7.0\Chess_Cabs.dll
+D:\Chess_Cabs\bin\Debug\net7.0\Chess_Cabs.pdb
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.csproj.AssemblyReference.cache
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.AssemblyInfoInputs.cache
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.AssemblyInfo.cs
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.csproj.CoreCompileInputs.cache
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.dll
+D:\Chess_Cabs\obj\Debug\net7.0\refint\Chess_Cabs.dll
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.pdb
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.genruntimeconfig.cache
+D:\Chess_Cabs\obj\Debug\net7.0\ref\Chess_Cabs.dll
+D:\Chess_Cabs\bin\Debug\net7.0\Stockfish.NET.dll
+D:\Chess_Cabs\obj\Debug\net7.0\Chess_Cabs.csproj.CopyComplete

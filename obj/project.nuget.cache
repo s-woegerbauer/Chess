@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3J8TK/CCo3nmUa+Hrezr6NOpkGiCGYxcantxEUkLqHEiOOmzvqkdsnvQ0UmQh0eagSBkk7scOTFnZa/tYPheKA==",
+  "success": true,
+  "projectFilePath": "D:\\Chess_Cabs\\Chess_Cabs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simsi\\.nuget\\packages\\stockfish.net\\1.0.7\\stockfish.net.1.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
